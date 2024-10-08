@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\bin\Debug\net8.0\ManipulacaoArquivosTexto.exe
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\bin\Debug\net8.0\ManipulacaoArquivosTexto.deps.json
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\bin\Debug\net8.0\ManipulacaoArquivosTexto.runtimeconfig.json
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\bin\Debug\net8.0\ManipulacaoArquivosTexto.dll
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\bin\Debug\net8.0\ManipulacaoArquivosTexto.pdb
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.AssemblyInfo.cs
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.dll
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\refint\ManipulacaoArquivosTexto.dll
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.pdb
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ManipulacaoArquivosTexto.genruntimeconfig.cache
+C:\Temp\Projetos C#\ManipulacaoArquivosTexto\ManipulacaoArquivosTexto\obj\Debug\net8.0\ref\ManipulacaoArquivosTexto.dll
